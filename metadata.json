@@ -1,0 +1,5 @@
+{
+  "name": " Wörner CESFAM Lautaro Project Dashboard",
+  "description": "An advanced project management dashboard for Constructora Wörner S.A. to visualize the Gantt chart, track critical path, and query project details for the CESFAM Lautaro construction using Gemini AI.",
+  "requestFramePermissions": []
+}
